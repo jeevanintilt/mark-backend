@@ -5,3 +5,6 @@ pymysql
 python-dotenv
 cryptography
 bcrypt
+pyjwt
+pydantic
+python-multipart
